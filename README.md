@@ -1,9 +1,11 @@
-## First you have login in the github and 2-step verification 
+## First you have login in the Gmail and go to Two-step verification 
 
-# Scroll down to bottom you can see it 
+# Scroll down to bottom you can see it app password
 
-# Create a app password, give any name there and paste in the code and you will good to go
+# Create a app password, give any name there and paste the password in the code and you will good to go
 
-# Run the Python app.py 
+# You have to do some changes depending on you by giving the credentails of them
+
+# Run Python application.py 
 
 ## Abhishek Jadhav
